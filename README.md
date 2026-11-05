@@ -129,7 +129,7 @@ The experiment was compiled and executed on an Ubuntu Linux environment (`user@m
 
 ### 5.1 Execution Output Screenshot
 
-![Benchmark Execution on Ubuntu](screenshot_pgc.png)
+![Benchmark Execution on Ubuntu](Screenshot From 2026-10-22 08-48-08.png)
 
 ### 5.2 Recorded Benchmark Data (`compare_sync`)
 
